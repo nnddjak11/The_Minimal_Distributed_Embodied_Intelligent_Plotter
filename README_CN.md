@@ -26,4 +26,4 @@
 | ESP32 N16R8 开发板 | `main.c`               | 主程序文件               |
 
 ## 文档地址
-[飞书文档](https://github.com)
+[飞书文档](https://ccncyy7g3jec.feishu.cn/wiki/To5TwudGOikpNtkBJumcBfiwnAb?from=from_copylink)
